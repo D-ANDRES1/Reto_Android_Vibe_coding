@@ -262,5 +262,5 @@ El prompt inicial fue bastante completo y claro pero el segundo dio unos toques 
 Esto permitió abordar la mayoría de las tareas directamente. Las anotaciones y la disposición a responder preguntas fueron útiles, como se vio con la aclaración sobre la API de OpenAI.
 
 Para futuras interacciones, mantener este nivel de detalle en los prompts es muy eficiente.
-
+En conclusion para la reflexion diria que me sorprende que gemini lo haga tan bien, pensaba que con copilot seria facil, la IA multiplica mucho tu productividad.
 
